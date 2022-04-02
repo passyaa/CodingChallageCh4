@@ -1,0 +1,12 @@
+.banner {
+    background-color: antiquewhite;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.sizeImage {
+    max-width: 150px;
+    height: auto;
+}
